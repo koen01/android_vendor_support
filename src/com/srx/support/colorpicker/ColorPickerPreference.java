@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.colorpicker;
+package com.srx.support.colorpicker;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -36,7 +36,7 @@ import android.widget.LinearLayout;
 
 import androidx.preference.*;
 
-import com.superior.support.R;
+import com.srx.support.R;
 
 /**
  * A preference type that allows a user to choose a time

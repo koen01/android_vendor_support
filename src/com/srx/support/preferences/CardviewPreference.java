@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.preferences;
+package com.srx.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -25,7 +25,7 @@ import androidx.core.content.res.TypedArrayUtils;
 import androidx.preference.Preference;
 import androidx.preference.PreferenceViewHolder;
 
-import com.superior.support.R;
+import com.srx.support.R;
 
 public class CardviewPreference extends Preference {
 

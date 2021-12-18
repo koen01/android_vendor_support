@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.preferences;
+package com.srx.support.preferences;
 
 import android.content.Context;
 import android.text.TextUtils;

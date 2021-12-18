@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.colorpicker;
+package com.srx.support.colorpicker;
 
 import android.graphics.Bitmap;
 import android.graphics.Bitmap.Config;

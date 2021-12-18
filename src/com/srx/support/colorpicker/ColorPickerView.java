@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.colorpicker;
+package com.srx.support.colorpicker;
 
 import android.content.Context;
 import android.graphics.Canvas;

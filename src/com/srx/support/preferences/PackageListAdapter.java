@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.superior.support.preferences;
+package com.srx.support.preferences;
 
 import android.content.Context;
 import android.content.Intent;
@@ -32,7 +32,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.superior.support.R;
+import com.srx.support.R;
 
 import java.util.Collections;
 import java.util.LinkedList;
